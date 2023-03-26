@@ -1,5 +1,5 @@
 {
-  "homepage": "https://<username>.github.io/netflix-clone/",
+  "homepage": "https://The-GO0d-Guy.github.io/netflix-clone/",
   "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
